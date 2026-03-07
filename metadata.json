@@ -1,5 +1,7 @@
 {
-  "name": "RepartoYa",
-  "description": "Plataforma de reparto que conecta restaurantes, repartidores y administradores en tiempo real.",
-  "requestFramePermissions": ["geolocation"]
+  "name": "RepartoPRO",
+  "description": "Plataforma de reparto que conecta restaurantes, repartidores y clientes en tiempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
 }
